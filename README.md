@@ -2,6 +2,7 @@
 Photovoltaïque Router et delesteur
 
 Ce module PV-Router vous permet de router (Fonction routeur solaire) directement votre production électrique solaire sur 2 équipements distincts, vous permettant ainsi d’éviter d’injecter cette production dans le réseau de votre fournisseur d’électricité. Il vous permet aussi d’économiser l’électricité que vous auriez utilisée la nuit pour alimenter ces équipements. 
+
 Fonction Jour/Nuit* : La 2ème fonction du PV-Router permet d’activer la sortie 1 aux heures de nuit et de la désactivée pendant la journée, où la fonction routeur reprend le relais. Cette fonction vous permet de compléter par exemple la montée en temperature de votre chauffe-eau si le soleil n'était pas au rendez-vous dans la journée.
 * : Cette fonction n’est disponible que lorsque le PV-Router est connecté via WiFi à internet. En effet, il prend son horloge sur internet via le WiFi. 
 
