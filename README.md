@@ -7,3 +7,4 @@ Routeur Photovoltaïque, Delesteur de Puissance et fonction Jour/Nuit
 * : Cette fonction n’est disponible que lorsque le PV-Router est connecté via WiFi à internet. En effet, il prend son horloge sur internet via le WiFi. 
 
 --Fonction Délesteur : La 3ème fonction du PV-Router, c’est une fonction de délestage. En effet, le PV-Router mesure en permanence la puissance à l’entrée de l’installation, lorsque cette puissance dépasse un seuil fixé par l’utilisateur, le PV-Router désactive ses entrées pour ne pas dépasser ce seuil fixé. Cette fonction est utile, si vous souhaitez souscrire une puissance limitée auprès de votre fournisseur tout en évitant des dépassements. Cette fonction vous permet ainsi de diminuer vos frais d’abonnement et le prix du KwH facturés par votre fournisseur d’électricité.
+
