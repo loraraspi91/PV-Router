@@ -1,4 +1,4 @@
-# PV-Router Compact (3 in 1)
+# PV-Router Compact DIN (3 in 1)
 Routeur Photovoltaïque, Delesteur de Puissance et fonction Jour/Nuit
 
 Routeur connecté (WiFi) et (MQTT). 
