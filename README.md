@@ -10,3 +10,7 @@ Routeur connecté (WiFi) et (MQTT).
 --Fonction Délesteur : La 3ème fonction du PV-Router, c’est une fonction de délestage. En effet, le PV-Router mesure en permanence la puissance à l’entrée de l’installation, lorsque cette puissance dépasse un seuil fixé par l’utilisateur, le PV-Router désactive ses entrées pour ne pas dépasser ce seuil fixé. Cette fonction est utile, si vous souhaitez souscrire une puissance limitée auprès de votre fournisseur tout en évitant des dépassements. Cette fonction vous permet ainsi de diminuer vos frais d’abonnement et le prix du KwH facturés par votre fournisseur d’électricité.
 
 Routeur connecté (WiFi) et (MQTT), facilement connectable avec Home Assistant
+
+Video Boot & Auto-Calibrations des sorties: https://youtu.be/g_4Lvs88GUc
+
+Video PV-Router en action: https://youtu.be/Mwd3u_4tKyo
