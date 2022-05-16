@@ -4,9 +4,9 @@ Routeur Photovoltaïque, Delesteur de Puissance et fonction Jour/Nuit
 *** NOUVEAUTE: Le PV-Router peut disposer d'une horloge temps-réel (RTC) et sa sortie 1 peut piloter un SSR en mode gradateur (Dimmer). *** 
 
 
-**** Présentation et revue du PV-Router (en mode gradateur) par Jean-Lou:  https://youtu.be/uTjck2MogZk 
+> **_Video_** Présentation et revue du PV-Router (en mode gradateur) par Jean-Lou: https://youtu.be/uTjck2MogZk 
 
-**** New Video : PV-Router en action avec gradateur : https://youtu.be/Zar5hZ-N06U 
+> **_Video_** PV-Router en action avec gradateur : https://youtu.be/Zar5hZ-N06U 
 
 
 
