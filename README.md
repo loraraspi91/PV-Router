@@ -20,7 +20,7 @@ Routeur connecté (WiFi) et (MQTT).
 
 --Fonction Thermostat : Permet de limiter la remontée en température du chauffe-eau limitant d'autant la consomation d'électricité. Arrivée à température, le PV-Router ne maintient pas la température, toujours pour économiser de l'électricité et espérer que le soleil complétera à partir du réveil.
 
-Plus d'information sur l'ensemble des fonctionalités dans le guide d'installation (PV_Installation_configuration_V1.1.pdf)
+Plus d'information sur l'ensemble des fonctionalités dans le guide d'installation (<a href="https://github.com/loraraspi91/PV-Router/blob/main/PV_Installation_configuration_V2.02.pdf">PV_Installation_configuration_V2.02.pdf</a>)
 
 Routeur connecté (WiFi) et (MQTT), facilement connectable avec Home Assistant
 
