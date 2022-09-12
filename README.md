@@ -1,5 +1,5 @@
-# PV-Router Compact DIN (4 in 1) + RTC/Gradation
-Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit et Thermostat (option)
+# PV-Router Compact DIN (5 in 1) + RTC/Gradation
+Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
 
 *** NOUVEAUTE: Le PV-Router peut disposer d'une horloge temps-réel (RTC) et sa sortie 1 peut piloter un SSR en mode gradateur (Dimmer). *** 
 
@@ -19,6 +19,8 @@ Routeur connecté (WiFi) et (MQTT).
 --Fonction Délesteur : La 3ème fonction du PV-Router, c’est une fonction de délestage. En effet, le PV-Router mesure en permanence la puissance à l’entrée de l’installation, lorsque cette puissance dépasse un seuil fixé par l’utilisateur, le PV-Router désactive ses entrées pour ne pas dépasser ce seuil fixé. Cette fonction est utile, si vous souhaitez souscrire une puissance limitée auprès de votre fournisseur tout en évitant des dépassements. Cette fonction vous permet ainsi de diminuer vos frais d’abonnement et le prix du KwH facturés par votre fournisseur d’électricité.
 
 --Fonction Thermostat : Permet de limiter la remontée en température du chauffe-eau limitant d'autant la consomation d'électricité. Arrivée à température, le PV-Router ne maintient pas la température, toujours pour économiser de l'électricité et espérer que le soleil complétera à partir du réveil.
+
+-- Fonction de suivi de production: Permet de suivre votre production solaire. Pour ce faire, le PV-Router est équipé d'un pince amperemetrique supplémentaire ce qui lui permet de suivre et transmettre le suivi de la production au travers du protocole MQTT, de son API REST et son interface web.
 
 Plus d'information sur l'ensemble des fonctionalités dans le guide d'installation (<a href="https://github.com/loraraspi91/PV-Router/blob/main/PV_Installation_configuration_V2.02.pdf">PV_Installation_configuration_V2.02.pdf</a>)
 
