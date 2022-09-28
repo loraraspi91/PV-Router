@@ -1,7 +1,7 @@
 # PV-Router Compact DIN (5 in 1) + RTC/Gradation
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
 
-*** NOUVEAUTE: Le PV-Router peut disposer d'une horloge temps-réel (RTC) et sa sortie 1 peut piloter un SSR en mode gradateur (Dimmer). *** 
+*** NOUVEAUTE: Désormais le PV-Router peut dispose de 2 sorties en mode gradation (une via un SSR et l'autre interne). Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un contacteur etc...).
 
 > **_Video_** Présentation et revue du PV-Router (en mode gradateur) par Jean-Lou: https://youtu.be/uTjck2MogZk 
 
