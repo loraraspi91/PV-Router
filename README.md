@@ -32,7 +32,7 @@ Video PV-Router en action: https://youtu.be/Mwd3u_4tKyo
 
 Contact: pvrouter@gmail.com
 
--- Malgré ce qui est indiqué ci-dessous, un service après-vente est assuré (mise à jour logiciel, réparations, upgrade....). 
+* Malgré ce qui est indiqué ci-dessous, un service après-vente est assuré (mise à jour logiciel, réparations, upgrade....). 
 
 Copyright 2021, Tous droits réservés
 
