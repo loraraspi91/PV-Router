@@ -10,9 +10,11 @@ Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un co
 
 * PV-Router: Nouvelle Version 2:
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/version21.jpg" alt="PV-Router - Nouvelle Version 2" width="579" height="393">
-Routeur connecté (WiFi) et (MQTT). 
+* Son petit compagnon (si besoin): Le PV-Node Temperature (WiFi)
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/PV_Node_Temp2.jpg" alt="PV-Router - Nouvelle Version 2" width="300" height="300">
+Routeur connecté (WiFi)/(MQTT) et API REST. 
 --Ce module PV-Router vous permet de router (Fonction routeur solaire) directement votre production électrique solaire sur 2 équipements distincts, vous permettant ainsi d’éviter d’injecter cette production dans le réseau de votre fournisseur d’électricité. Il vous permet aussi d’économiser l’électricité que vous auriez utilisée la nuit pour alimenter ces équipements. 
-  * Note: uniquement la sortie 1 gère le mode gradation, la sortie 2 est en mode "tout ou rien".
+  * Note: uniquement la sortie 1 gère le mode gradation, la sortie 2 interne est en mode "tout ou rien". Possibilité de remplacer la 2ème sortie interne par un SSR externe en gradation.
 
 --Fonction Jour/Nuit* : La 2ème fonction du PV-Router permet d’activer la sortie 1 aux heures de nuit et de la désactivée pendant la journée, où la fonction routeur reprend le relais. Cette fonction vous permet de compléter par exemple la montée en temperature de votre chauffe-eau si le soleil n'était pas au rendez-vous dans la journée. 
 * L'option RTC est nécessaire lorsque le PV-Router ne peut être connecté au WiFi, en effet, celui-ci prend son heure sur internet par défaut. 
@@ -25,7 +27,7 @@ Routeur connecté (WiFi) et (MQTT).
 
 Plus d'information sur l'ensemble des fonctionalités dans le guide d'installation (<a href="https://github.com/loraraspi91/PV-Router/blob/main/PV_Installation_configuration_V2.02.pdf">PV_Installation_configuration_V2.02.pdf</a>)
 
-Routeur connecté (WiFi) et (MQTT), facilement connectable avec Home Assistant
+Routeur connecté (WiFi)/(MQTT), facilement connectable avec Home Assistant
 
 Video Boot & Auto-Calibrations des sorties: https://youtu.be/g_4Lvs88GUc
 
