@@ -1,6 +1,8 @@
 # PV-Router Compact DIN (5 in 1) + RTC/Gradation
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
 
+*** NOUVEAUTE: Petit compagnon: le Node WiFi Temperature, Utile lorsque votre ballon est trop loin du PV-Router
+
 *** NOUVEAUTE: Désormais le PV-Router dispose de 2 sorties en mode gradation (une via un SSR et l'autre interne). 
 Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un contacteur etc...) ou être remplacer (option) par un 2ème SSR.
 
