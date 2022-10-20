@@ -1,5 +1,6 @@
 # PV-Router Compact DIN (5 in 1) + RTC/Gradation
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
+> _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
 *** NOUVEAUTE: Petit compagnon: le Node WiFi Temperature, Utile lorsque votre ballon est trop loin du PV-Router
 
