@@ -2,7 +2,9 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
-11/2022 *** NOUVELLE Fonctionalité: Gestion automatique de la destruction des Samonelles en mode nuit.
+02/2023 *** Nouveau Design (cf photo ci-dessous) avec les mêmes fonctionalités.
+
+11/2022 *** NOUVELLE Fonctionalité: Gestion automatique de la destruction des Légionnelles en mode nuit.
 
 10/2022 *** NOUVEAUTE: Petit compagnon: le Node WiFi Temperature, Utile lorsque votre ballon est trop loin du PV-Router
 
@@ -13,8 +15,8 @@ Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un co
 
 > **_Video_** PV-Router en action avec gradateur : https://youtu.be/Zar5hZ-N06U 
 
-* PV-Router: Nouvelle Version 2:
-<img src="https://github.com/loraraspi91/PV-Router/blob/main/version21.jpg" alt="PV-Router - Nouvelle Version 2" width="579" height="393">
+* PV-Router: Nouveau Design (mêmes fonctionalités):
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/PV-Router-NewDesign.jpg" alt="PV-Router - Nouveau Design" width="367" height="393">
 * Son petit compagnon (si besoin): Le PV-Node Temperature (WiFi)
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/PV_Node_Temp2.jpg" alt="PV-Router - Nouvelle Version 2" width="300" height="300">
 Routeur connecté (WiFi)/(MQTT) et API REST. 
@@ -42,7 +44,7 @@ Contact: pvrouter@gmail.com
 
 * Malgré ce qui est indiqué ci-dessous, un service après-vente est assuré (mise à jour logiciel, réparations, upgrade....). 
 
-Copyright 2021, Tous droits réservés
+Copyright 2021-2023 Tous droits réservés
 
 CE PRODUIT EST FOURNI PAR LES AUTEURS ET CONTRIBUTEURS « EN L’ETAT » SANS AUCUNE GARANTIE D’AUCUNE SORTE, EXPLICITE OU IMPLICITE, N’Y SOIT ATTACHEE, Y COMPRIS LES GARANTIES IMPLICITES DE CARACTERE COMMERCIAL OU D'ADAPTATION DANS UN BUT PARTICULIER. LES AUTEURS ET CONTRIBUTEURS NE PEUVENT EN AUCUN CAS ETRE TENUS POUR RESPONSABLES D’UN QUELCONQUE DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, PARTICULIER, EXEMPLAIRE OU IMMATERIEL (Y COMPRIS, MAIS SANS S’Y LIMITER, L'ACQUISITION DE PRODUITS OU SERVICES DE SUBSTITUTION ; LA PERTE DE JOUISSANCE, DE DONNEES OU DE BENEFICES ; OU LES PERTES D'EXPLOITATION) QUELLES QU'EN SOIENT LES CAUSES ET QUEL QUE SOIT LE TYPE DE RESPONSABILITE, CONTRACTUELLE, SANS FAUTE OU FONDEE SUR UN DELIT CIVIL (Y COMPRIS PAR NEGLIGENCE OU POUR UNE AUTRE CAUSE) RESULTANT D'UNE MANIERE OU D'UNE AUTRE DE L'UTILISATION DE CE PRODUIT, MEME SI MENTION A ETE FAITE DE LA POSSIBILITE DE TELS DOMMAGES.
 
