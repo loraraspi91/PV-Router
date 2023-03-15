@@ -17,6 +17,8 @@ Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un co
 
 * PV-Router: Nouveau Design (mêmes fonctionalités):
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/PV-Router-NewDesign.jpg" alt="PV-Router - Nouveau Design" width="367" height="393">
+* PV-Router: Ancien Design:
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/version21.jpg" alt="PV-Router - Ancien Design" width="550" height="393">
 * Son petit compagnon (si besoin): Le PV-Node Temperature (WiFi)
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/PV_Node_Temp2.jpg" alt="PV-Router - Nouvelle Version 2" width="300" height="300">
 Routeur connecté (WiFi)/(MQTT) et API REST. 
