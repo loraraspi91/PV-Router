@@ -19,7 +19,7 @@ Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un co
 
 > **_Video_** PV-Router en action avec gradateur : https://youtu.be/Zar5hZ-N06U 
 * PV-Router: Système de suivi et de monitoring à distance:
-<img src="https://github.com/loraraspi91/PV-Router/blob/main/Monitoring.png" alt="PV-Router - Monoriting/suivi" width="630" height="393">
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Monitoring.png" alt="PV-Router - Monoriting/suivi" width="756" height="472">
 
 * PV-Router: Nouveau Design (mêmes fonctionalités):
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/PV-Router-NewDesign.jpg" alt="PV-Router - Nouveau Design" width="367" height="393">
