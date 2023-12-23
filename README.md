@@ -2,6 +2,8 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+11/2023 *** Monitoring dynamique du PV-Router à distance (PC/Tablette/smartphone): Permet de suivre votre PV-Router, votre installation et votre production
+
 05/2023 *** Nouveau compagnon: Node WiFi "Monitoring Solaire" pour suivre votre production si votre onduleur est loin de votre PV-Router
 
 02/2023 *** Nouveau Design (cf photo ci-dessous) avec les mêmes fonctionalités.
