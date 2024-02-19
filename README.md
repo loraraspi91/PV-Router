@@ -21,7 +21,7 @@ Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un co
 * PV-Router: Système de suivi et de monitoring à distance:
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Monitoring.png" alt="PV-Router - Monoriting/suivi" width="756" height="472">
 
-* PV-Router: Nouveau Design (mêmes fonctionalités):
+* PV-Router: Nouveau Design (avec fonction température & gestion des légionnelles):
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/PV-Router-NewDesign.jpg" alt="PV-Router - Nouveau Design" width="367" height="393">
 * Petit compagnon (si besoin): Le PV-Node Monitoring (WiFi)
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/NodeMonitor.jpg" alt="PV-Router - Nouvelle Version 2" width="400" height="300">
