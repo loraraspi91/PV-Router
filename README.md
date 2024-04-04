@@ -11,6 +11,7 @@ Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat 
 11/2022 *** NOUVELLE Fonctionalité: Gestion automatique de la destruction des Légionnelles en mode nuit.
 
 10/2022 *** NOUVEAUTE: Petit compagnon: le Node WiFi Temperature, Utile lorsque votre ballon est trop loin du PV-Router
+> Remplace la sonde de température filaire si votre ballon est trop éloigné
 
 05/2022*** Désormais le PV-Router dispose de 2 sorties en mode gradation (une via un SSR et l'autre interne). 
 Sa sortie interne peut piloter une charge selfique (typiquement un moteur, un contacteur etc...) ou être remplacer (option) par un 2ème SSR.
