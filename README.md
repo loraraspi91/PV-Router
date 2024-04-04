@@ -1,5 +1,5 @@
 # PV-Router Compact DIN (5 in 1) + RTC/Gradation
-Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat et Suivi de la production (options)
+Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
 11/2023 *** Monitoring dynamique du PV-Router à distance (PC/Tablette/smartphone): Permet de suivre votre PV-Router, votre installation et votre production
