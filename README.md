@@ -2,6 +2,15 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+04/2024 *** Le PV-Router devient compatible réseau Tri-Phasé en s'interconnectant avec le Shelly 3EM
+
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Shelly3EM-2.jpg" alt="Shelly3EM" width="450" height="300">
+
+03/2024 *** Nouveau compagnon: Node Battery permet de monitorer la charge/décharge de la batterie de l'onduleur. 
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Battery.jpg" alt="Module PV Battery" width="220" height="300">
+
+Permet de rendre compatible le PV-Router avec les onduleurs hybrides en priorisant le routage dans le cumulus et évitant de décharger les batteries dans le cumulus (à cause de la rapidité de routage par rapport à l'onduleur).
+
 11/2023 *** Monitoring dynamique du PV-Router à distance (PC/Tablette/smartphone): Permet de suivre votre PV-Router, votre installation et votre production
 
 05/2023 *** Nouveau compagnon: Node WiFi "Monitoring Solaire" pour suivre votre production si votre onduleur est loin de votre PV-Router
