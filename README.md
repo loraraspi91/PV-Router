@@ -2,6 +2,10 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+05/2024 *** 2 nouvelles fonctionnalités pour le PV-Router:
+- Fonction "Boost": Relancer la chauffe de votre chauffe-eau en appuyant sur le bouton "boost". Ce bouton remplace l'interrupteur On/Off.
+- Fonction "Mémorisation": Partez en vacances tranquille en coupant box & WiFi; le PV-Router mémorise ses données jusqu'à 90 jours et les restitura au serveur à votre retour.
+
 04/2024 *** Le PV-Router devient compatible réseau Tri-Phasé en s'interconnectant avec le Shelly 3EM
 
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Shelly3EM-2.jpg" alt="Shelly3EM" width="450" height="300">
