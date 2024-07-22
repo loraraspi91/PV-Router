@@ -2,8 +2,8 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
-06/2024 *** Version Commerciale certifié CE: made in France :
-
+06/2024 *** Version Commerciale certifié CE, made in France :
+> infos & Commandes : contact@smartelectromation.com
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Smart_PVRouter.jpg" alt="Smart PV-Router" width="322" height="450">
 
 05/2024 *** 2 nouvelles fonctionnalités pour le PV-Router:
