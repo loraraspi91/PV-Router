@@ -2,6 +2,10 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+06/2024 *** Version Commerciale certifié CE: made in France :
+
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Smart_PVRouter.jpg" alt="Smart PV-Router" width="322" height="450">
+
 05/2024 *** 2 nouvelles fonctionnalités pour le PV-Router:
 - Fonction "Boost": Relancer la chauffe de votre chauffe-eau en appuyant sur le bouton "boost". Ce bouton remplace l'interrupteur On/Off.
 - Fonction "Mémorisation": Partez en vacances tranquille en coupant box & WiFi; le PV-Router mémorise ses données jusqu'à 90 jours et les restitura au serveur à votre retour.
