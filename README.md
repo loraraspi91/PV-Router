@@ -1,4 +1,6 @@
-# PV-Router Compact DIN (5 in 1) + RTC/Gradation
+# Smart PV-Router (Zero Injection)
+> Format compact DIN (5 in 1) + RTC/Gradation
+
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
