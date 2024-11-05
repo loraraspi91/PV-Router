@@ -8,10 +8,10 @@ Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/
 > infos & Commandes : contact@smartelectromation.com
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Smart_PVRouter.jpg" alt="Smart PV-Router" width="322" height="450">
 
-06/2024 *** Module distant de mesure WiFi monophasé
-> permet de prendre les mesures sur un linky (ou tableau principal) loin de votre chauffe-eau
->
-> Mettez le module dans le tableau principal et le routeur au plus près ude votre chauffe-eau
+06/2024 *** Module distant de mesure (linky) WiFi monophasé
+- Permet de prendre les mesures sur un linky (ou tableau principal) loin de votre chauffe-eau
+- Evite de passer des cables longs et disgracieux dans la maison pour relier le Router au linky.
+- Mettez le module dans le tableau principal et le routeur au plus près ude votre chauffe-eau
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Distant_Wifi-300x300.jpg" alt="Mesure WiFi Monophasé" width="322" height="450">
 
 
