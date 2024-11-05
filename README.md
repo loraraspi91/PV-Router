@@ -4,6 +4,12 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+11/2024 *** Version Coffret CE, facile à installer:
+- Simple et pré-configuré, branchez 5 fils, connectez le à votre WiFi (ou pas) et optimisez votre production.
+- Si connecté au WiFi: suivez la performance de votre installation via internet en temps-réel.
+- Existe en version 12 modules
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Coffret8_2.jpg" alt="Smart PV-Router" width="361" height="360">
+
 07/2024 *** Version Commerciale certifié CE, made in France :
 > infos & Commandes : contact@smartelectromation.com
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Smart_PVRouter.jpg" alt="Smart PV-Router" width="322" height="450">
