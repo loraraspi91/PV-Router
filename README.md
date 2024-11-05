@@ -4,9 +4,16 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
-06/2024 *** Version Commerciale certifié CE, made in France :
+07/2024 *** Version Commerciale certifié CE, made in France :
 > infos & Commandes : contact@smartelectromation.com
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/Smart_PVRouter.jpg" alt="Smart PV-Router" width="322" height="450">
+
+06/2024 *** Module distant de mesure WiFi monophasé
+> permet de prendre les mesures sur un linky (ou tableau principal) loin de votre chauffe-eau
+>
+> Mettez le module dans le tableau principal et le routeur au plus près ude votre chauffe-eau
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/Distant_Wifi-300x300.jpg" alt="Mesure WiFi Monophasé" width="322" height="450">
+
 
 05/2024 *** 2 nouvelles fonctionnalités pour le PV-Router:
 - Fonction "Boost": Relancer la chauffe de votre chauffe-eau en appuyant sur le bouton "boost". Ce bouton remplace l'interrupteur On/Off.
