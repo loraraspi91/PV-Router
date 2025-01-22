@@ -9,7 +9,8 @@ Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/
 - Nouveau module permettant au Smart PV-Router de piloter la charge de VOTRE wallbox
 - Charge manuelle, Charge automatique (routage avec complément la nuit), Priorité au Ballon.
 - Fonction delestage pour éviter de dépasser votre abonnement EDF.
-- 
+- Plus d'information, page github <b>Smart EV-Pilot</b> : https://github.com/loraraspi91/EV-Pilot/tree/main
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/coffret_ferme_web.jpg" alt="Smart PV-Router" width="220" height="360">
 
 11/2024 *** Version Coffret CE, facile à installer:
 - Simple et pré-configuré, branchez 5 fils, connectez le à votre WiFi (ou pas) et optimisez votre production.
