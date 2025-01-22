@@ -11,7 +11,7 @@ Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/
 - Fonction delestage pour éviter de dépasser votre abonnement EDF.
 - Compatible avec toutes les wallbox
 - Plus d'information, page github <b>Smart EV-Pilot</b> : https://github.com/loraraspi91/EV-Pilot/tree/main
-<img src="https://github.com/loraraspi91/PV-Router/blob/main/routeur.jpg" alt="Smart PV-Router" width="220" height="360">
+<img src="https://github.com/loraraspi91/PV-Router/blob/main/routeur.jpg" alt="Smart PV-Router" width="360" height="360">
 <img src="https://github.com/loraraspi91/PV-Router/blob/main/coffret_ferme_web.jpg" alt="Smart PV-Router" width="220" height="360">
 
 11/2024 *** Version Coffret CE, facile à installer:
