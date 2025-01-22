@@ -4,6 +4,13 @@
 Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/Temperature et Suivi de la production (options)
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
+
+01/2025 *** NOUVEAU: Module EV-Pilot: Router sur voiture Electrique
+- Nouveau module permettant au Smart PV-Router de piloter la charge de VOTRE wallbox
+- Charge manuelle, Charge automatique (routage avec complément la nuit), Priorité au Ballon.
+- Fonction delestage pour éviter de dépasser votre abonnement EDF.
+- 
+
 11/2024 *** Version Coffret CE, facile à installer:
 - Simple et pré-configuré, branchez 5 fils, connectez le à votre WiFi (ou pas) et optimisez votre production.
 - Si connecté au WiFi: suivez la performance de votre installation via internet en temps-réel.
