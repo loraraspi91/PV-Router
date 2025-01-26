@@ -5,7 +5,7 @@ Routeur Photovoltaïque, Delesteur de Puissance, Fonction Jour/Nuit, Thermostat/
 > _Si vous voulez le votre, contactez moi:_ pvrouter@gmail.com
 
 
-01/2025 *** NOUVEAU: Module EV-Pilot: Router sur voiture Electrique
+01/2025 *** NOUVEAU: Module EVSE-Pilot: Router sur voiture Electrique
 - Nouveau module permettant au Smart PV-Router de piloter <b>VOTRE</b> wallbox
 - Charge manuelle, Charge automatique (routage avec complément la nuit), Priorité au Ballon.
 - Fonction delestage pour éviter de dépasser votre abonnement EDF.
